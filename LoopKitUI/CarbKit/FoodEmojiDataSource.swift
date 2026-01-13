@@ -20,18 +20,18 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🍯", // honey pot
             "🍇", // grapes
             "🫐", // blueberries
-            "🍈", // melon
+            "🍓", // strawberry            
+            "🍌", // banana
             "🍉", // watermelon
             "🍊", // tangerine
             "🍋", // lemon
-            "🍌", // banana
-            "🍍", // pineapple
             "🍎", // red apple
             "🍏", // green apple
             "🍐", // pear
+            "🍈", // melon
+            "🍍", // pineapple
             "🍑", // peach
             "🍒", // cherries
-            "🍓", // strawberry
             "🥝", // kiwi fruit
             "🥭", // mango
             "🌽", // ear of corn
@@ -59,35 +59,32 @@ final class FoodEmojiDataSource: EmojiDataSource {
 
     private static let medium: [String] = {
         var medium = [
+            "🥞", // pancakes
+            "🧇", // waffle
+            "🥯", // bagel            
             "🥔", // potato
-            "🍆", // eggplant
-            "🥥", // coconut
             "🍞", // bread
             "🥐", // croissant
             "🥖", // baguette bread
-            "🥯", // bagel
             "🫓", // flat bread
             "🥨", // pretzel
-            "🥞", // pancakes
-            "🧇", // waffle
-            "🍙", // rice ball
-            "🍚", // cooked rice
             "🍼", // baby bottle
             "🧋", // bubble tea
             "🍠", // roasted sweet potato
-            "🍤", // fried shrimp
-            "🦪", // oyster
-            "🍥", // fish cake with swirl
+            "🍚", // cooked rice
+            "🍙", // rice ball            
+            "🍆", // eggplant
+            "🥥", // coconut
             "🥪", // sandwich
             "🥙", // pita sandwich
             "🥫", // canned food
             "🥟", // dumpling
             "🥡", // takeout box
-            "🍢", // oden
-            "🍣", // sushi
             "🍦", // soft ice cream
             "🎂", // birthday cake
             "🥠", // fortune cookie
+            "🍥", // fish cake with swirl
+            "🍢", // oden
             "🌮", // taco
        ]
 
@@ -97,41 +94,43 @@ final class FoodEmojiDataSource: EmojiDataSource {
     private static let slow: [String] = {
         var slow = [
             "🍕", // pizza
+            "🍔", // hamburger
+            "🍟", // french fries
+            "🌭", // hot dog
+            "🌯", // burrito
+            "🫘", // beans
+            "🫔", // tamale
             "🥑", // avocado
-            "🥚", // egg
-            "🥜", // peanuts
-            "🥛", // glass of milk
-            "🍮", // custard
-            "🥧", // pie
-            "🍨", // ice cream
             "🍩", // doughnut
             "🍪", // cookie
             "🧁", // cupcake
-            "🧆", // falafel
-            "🫔", // tamale
-            "🥮", // moon cake
-            "🍰", // shortcake
-            "🍫", // chocolate bar
-            "🌰", // chestnut
-            "🧀", // cheese wedge
-            "🫕", // fondue
+            "🍨", // ice cream            
+            "🍝", // spaghetti
+            "🥚", // egg
+            "🍳", // cooking
+            "🥜", // peanuts
             "🍖", // meat on bone
             "🍗", // poultry leg
             "🥓", // bacon
-            "🍔", // hamburger
-            "🌭", // hot dog
-            "🌯", // burrito
-            "🍝", // spaghetti
             "🥩", // cut of meat
-            "🍟", // french fries
-            "🫘", // beans
-            "🍳", // cooking
+            "🍫", // chocolate bar
+            "🍰", // shortcake            
+            "🥧", // pie
+            "🥮", // moon cake
+            "🧀", // cheese wedge
+            "🍜", // steaming bowl (ramen / noodle soup)            
+            "🧆", // falafel
+            "🍮", // custard
+            "🧈", // butter            
+            "🌰", // chestnut
+            "🫕", // fondue
             "🍲", // pot of food
+            "🍣", // sushi            
             "🥘", // pan of food
             "🍱", // bento box
             "🍛", // curry rice
-            "🍜", // steaming bowl (ramen / noodle soup)
-            "🧈", // butter
+            "🍤", // fried shrimp
+            "🦪", // oyster        
             "🦴", // bone
         ]
 
@@ -141,6 +140,9 @@ final class FoodEmojiDataSource: EmojiDataSource {
     private static let other: [String] = {
         var other = [
             "❓",
+            "🍽", // fork and knife with plate            
+            "🥣", // bowl with spoon
+            "🍵", // teacup without handle            
             "🍶", // sake
             "🍾", // bottle with popping cork
             "🍷", // wine glass
@@ -152,11 +154,8 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🍹", // tropical drink
             "🧉", // mate
             "🫗", // pouring liquid
-            "🥣", // bowl with spoon
             "🥢", // chopsticks
-            "🍵", // teacup without handle
             "🍴", // fork and knife
-            "🍽", // fork and knife with plate
             "🥄", // spoon
             "🫙", // jar
             "🧊", // ice cube
