@@ -20,7 +20,7 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🍯", // honey pot
             "🍇", // grapes
             "🫐", // blueberries
-            "🍓", // strawberry            
+            "🍓", // strawberry
             "🍌", // banana
             "🍉", // watermelon
             "🍊", // tangerine
@@ -61,7 +61,7 @@ final class FoodEmojiDataSource: EmojiDataSource {
         var medium = [
             "🥞", // pancakes
             "🧇", // waffle
-            "🥯", // bagel            
+            "🥯", // bagel
             "🥔", // potato
             "🍞", // bread
             "🥐", // croissant
@@ -72,7 +72,7 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🧋", // bubble tea
             "🍠", // roasted sweet potato
             "🍚", // cooked rice
-            "🍙", // rice ball            
+            "🍙", // rice ball
             "🍆", // eggplant
             "🥥", // coconut
             "🥪", // sandwich
@@ -104,7 +104,7 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🍩", // doughnut
             "🍪", // cookie
             "🧁", // cupcake
-            "🍨", // ice cream            
+            "🍨", // ice cream
             "🍝", // spaghetti
             "🥚", // egg
             "🍳", // cooking
@@ -114,23 +114,23 @@ final class FoodEmojiDataSource: EmojiDataSource {
             "🥓", // bacon
             "🥩", // cut of meat
             "🍫", // chocolate bar
-            "🍰", // shortcake            
+            "🍰", // shortcake
             "🥧", // pie
             "🥮", // moon cake
             "🧀", // cheese wedge
-            "🍜", // steaming bowl (ramen / noodle soup)            
+            "🍜", // steaming bowl (ramen / noodle soup)
             "🧆", // falafel
             "🍮", // custard
-            "🧈", // butter            
+            "🧈", // butter
             "🌰", // chestnut
             "🫕", // fondue
             "🍲", // pot of food
-            "🍣", // sushi            
+            "🍣", // sushi
             "🥘", // pan of food
             "🍱", // bento box
             "🍛", // curry rice
             "🍤", // fried shrimp
-            "🦪", // oyster        
+            "🦪", // oyster
             "🦴", // bone
         ]
 
